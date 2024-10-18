@@ -105,7 +105,7 @@ Draculaish:
   #code-editor-background-color: var(--primary-background-color)
 
   # Checkboxes
-  mdc-checkbox-unchecked-color: var(--surface0)
+  mdc-checkbox-unchecked-color: var(--subtext0)
   mdc-checkbox-disable-color: var(--disabled-text-color)
   mdc-select-fill-color: rgba(var(--crust),1)
   mdc-select-ink-color: var(--text)
@@ -478,7 +478,7 @@ Draculaish-Pink:
   #code-editor-background-color: var(--primary-background-color)
 
   # Checkboxes
-  mdc-checkbox-unchecked-color: var(--surface0)
+  mdc-checkbox-unchecked-color: var(--subtext0)
   mdc-checkbox-disable-color: var(--disabled-text-color)
   mdc-select-fill-color: rgba(var(--crust),1)
   mdc-select-ink-color: var(--text)
